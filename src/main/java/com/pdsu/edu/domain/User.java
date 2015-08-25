@@ -3,10 +3,9 @@ package com.pdsu.edu.domain;
 import java.io.Serializable;
 
 /**
- * 类说明：用户表
  * 
- * @author 作者: LiuJunGuang
- * @version 创建时间：2012-3-25 下午12:38:24
+ * @author zhoumj
+ *
  */
 public class User implements Serializable {
 	private static final long serialVersionUID = -4415990281535582814L;
